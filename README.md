@@ -24,10 +24,3 @@ CREATE TABLE actor
     unique (name, movie)
 );
 ```
-
-# Join the community
-<p>
-    <a href="https://discord.com/invite/S7gXXxq8" alt="Contributors">
-        <img src="https://img.shields.io/discord/699965319883784252" />
-    </a>
-</p>
